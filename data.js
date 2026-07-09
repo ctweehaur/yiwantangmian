@@ -381,7 +381,7 @@ const lessonData = [
     ["。", "", "", ""],
     ["老板", "lǎo bǎn", "The boss", "Tuan kedai"],
     ["默默地", "mò mò de", "silently", "dengan senyap"],
-    ["盛好", "shèng hǎo", "served", "sedia"],
+    ["盛好", "chéng hǎo", "served", "sedia"],
     ["一大碗", "yī dà wǎn", "a big bowl", "semangkuk besar"],
     ["香喷喷的", "xiāng pēn pēn de", "fragrant", "wangi"],
     ["面", "miàn", "noodles", "mi"],
